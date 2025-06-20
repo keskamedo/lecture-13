@@ -1,0 +1,28 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "material-icon-theme.files.associations": {
+        
+"liveSassCompile.settings.formats": [
+{
+"format": "expanded",
+"extensionName": ".css",
+"savePath": "~/../css/"
+}
+]
+    },
+    "workbench.colorTheme": "monokai-charcoal (green)",
+    "liveSassCompile.settings.forceBaseDirectory": "",
+
+
+    "liveSassCompile.settings.formats": [{
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css/"
+}
+]
+}
+
+
+
